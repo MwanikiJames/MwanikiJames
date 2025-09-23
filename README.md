@@ -18,9 +18,8 @@ I’m passionate about **financial analysis, data-driven decision making, and le
 ## 🔹 Projects  
 Here are some highlighted projects (more coming soon 🚀):  
 
-- [📊 NSSF Benefits Calculator](#) *(example project – pension/benefits simulation in Python or Excel)*  
 - [📈 Housing Program Critique Report](#) *(policy and economic evaluation)*   
-
+**coming soon** - [📊 NSSF Benefits Calculator](#) *(pension/benefits simulation in Python or Excel)*  
 ---
 
 ## 🔹 Experience  
