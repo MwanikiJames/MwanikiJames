@@ -18,7 +18,7 @@ I’m passionate about **financial analysis, data-driven decision making, and le
 ## 🔹 Projects  
 Here are some highlighted projects (more coming soon 🚀):  
 
-- [📈 Housing Program Critique Report](#) *(policy and economic evaluation)*   
+- [📈 Housing Program Critique Report](https://github.com/MwanikiJames/Housing-Program-Critique) *(policy and economic evaluation)*   
 **coming soon** - [📊 NSSF Benefits Calculator](#) *(pension/benefits simulation in Python or Excel)*  
 ---
 
