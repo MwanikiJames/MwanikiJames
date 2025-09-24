@@ -129,7 +129,7 @@
                         </div>
                         <h3 class="text-xl font-semibold text-white">NSSF Benefits Calculator</h3>
                     </div>
-                    <p class="text-gray-300 mb-4">Pension/benefits simulation in Python or Excel (coming soon)</p>
+                    <p class="text-gray-300 mb-4">Pension/benefits simulation in Python or Excel (coming soon)(https://mwanikijames.github.io/NSSF-Benefits-Calculator/) </p>
                     <span class="text-gray-500 flex items-center">
                         <i data-feather="clock" class="mr-2"></i> Coming soon
                     </span>
