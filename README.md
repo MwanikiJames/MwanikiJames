@@ -36,7 +36,7 @@
         <!-- Header Section -->
         <header class="text-center mb-12" data-aos="fade-down">
             <div class="flex justify-center mb-6">
-                <img src="http://static.photos/people/200x200/42" alt="James Mwaniki" class="profile-pic rounded-full w-32 h-32 object-cover">
+                <img src="http://static.photos/finance/200x200/42" alt="James Mwaniki" class="profile-pic rounded-full w-32 h-32 object-cover">
             </div>
             <h1 class="text-4xl font-bold text-white mb-2">👋 Hi, I'm James Mwaniki</h1>
             <p class="text-xl text-gray-300 mb-4">
@@ -66,7 +66,7 @@
                     </p>
                 </div>
                 <div class="flex justify-center">
-                    <img src="http://static.photos/finance/320x240/15" alt="Professional counting money" class="rounded-lg object-cover h-full hovered-element">
+                    <img src="http://static.photos/office/320x240/15" alt="Professional counting money" class="rounded-lg object-cover h-full hovered-element">
                 </div>
             </div>
         </section>
@@ -88,10 +88,10 @@
                     </ul>
                 </div>
                 <div>
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2 flex items-center">
+                    <h3 class="text-lg font-semibold text-white mb-2 flex items-center">
                         <i data-feather="dollar-sign" class="mr-2"></i> Finance Tools
                     </h3>
-                    <ul class="list-disc pl-5 text-gray-700 space-y-1">
+                    <ul class="list-disc pl-5 text-gray-300 space-y-1">
                         <li>Investment analysis</li>
                         <li>Financial modeling & forecasting</li>
                         <li>Budgeting & expenditure analysis</li>
