@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -116,8 +117,8 @@
                         <h3 class="text-xl font-semibold text-white">Housing Program Critique Report</h3>
                     </div>
                     <p class="text-gray-300 mb-4">Policy and economic evaluation of housing programs</p>
-                    <a href="(https://mwanikijames.github.io/Housing-Program-Critique/)" class="text-blue-500 hover:text-blue-700 flex items-center">
-                        <i data-feather="github" class="mr-2"></i> View on GitHub
+                    <a href="https://mwanikijames.github.io/Housing-Program-Critique/" class="text-blue-500 hover:text-blue-700 flex items-center">
+                        <i data-feather="github" class="mr-2"></i> View Project
                     </a>
                 </div>
                 
@@ -129,10 +130,10 @@
                         </div>
                         <h3 class="text-xl font-semibold text-white">NSSF Benefits Calculator</h3>
                     </div>
-                    <p class="text-gray-300 mb-4">Pension/benefits simulation in Python or Excel (coming soon)(https://mwanikijames.github.io/NSSF-Benefits-Calculator/) </p>
-                    <span class="text-gray-500 flex items-center">
-                        <i data-feather="clock" class="mr-2"></i> Coming soon
-                    </span>
+                    <p class="text-gray-300 mb-4">Pension/benefits simulation</p>
+                    <a href="https://mwanikijames.github.io/NSSF-Benefits-Calculator/" class="text-blue-500 hover:text-blue-700 flex items-center">
+                        <i data-feather="github" class="mr-2"></i> View Project
+                    </a>
                 </div>
             </div>
         </section>
