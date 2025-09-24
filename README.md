@@ -193,9 +193,7 @@
                 <a href="https://www.linkedin.com/in/james-mwaniki-11a550379" target="_blank" class="flex items-center text-blue-600 hover:text-blue-800">
                     <i data-feather="linkedin" class="mr-2"></i> LinkedIn Profile
                 </a>
-                <a href="https://github.com/MwanikiJames" target="_blank" class="flex items-center text-blue-600 hover:text-blue-800">
-                    <i data-feather="github" class="mr-2"></i> GitHub Projects
-                </a>
+            
             </div>
         </section>
 
