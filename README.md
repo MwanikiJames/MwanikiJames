@@ -66,7 +66,7 @@
                     </p>
                 </div>
                 <div class="flex justify-center">
-                    <img src="http://static.photos/office/320x240/10" alt="Office workspace" class="rounded-lg object-cover h-full">
+                    <img src="http://static.photos/finance/320x240/15" alt="Professional counting money" class="rounded-lg object-cover h-full hovered-element">
                 </div>
             </div>
         </section>
