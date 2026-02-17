@@ -134,8 +134,47 @@
                         <i data-feather="github" class="mr-2"></i> View Project
                     </a>
                 </div>
-                
+
                 <!-- Project 2 -->
+                <div class="bg-gray-900 rounded-xl p-6 shadow-md card-hover transition duration-300">
+                    <div class="flex items-center mb-4">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i data-feather="file-text" class="text-blue-600"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold text-white">Recover Deleted Photos</h3>
+                    </div>
+                    <p class="text-gray-300 mb-4">Lost Past</p>
+                    <a href="https://mwanikijames.github.io/recoverdeletedphotos/" class="text-blue-500 hover:text-blue-700 flex items-center">
+                        <i data-feather="github" class="mr-2"></i> View Project
+                    </a>
+                </div>
+                <!-- Project 2 -->
+                <div class="bg-gray-900 rounded-xl p-6 shadow-md card-hover transition duration-300">
+                    <div class="flex items-center mb-4">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i data-feather="file-text" class="text-blue-600"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold text-white">Traffic Flow Monitor</h3>
+                    </div>
+                    <p class="text-gray-300 mb-4">Traffic flow Monitor</p>
+                    <a href="https://traffic-flow-monitor--jamesnderitu947.replit.app/" class="text-blue-500 hover:text-blue-700 flex items-center">
+                        <i data-feather="github" class="mr-2"></i> View Project
+                    </a>
+                </div>
+                <!-- Project 2 -->
+                <div class="bg-gray-900 rounded-xl p-6 shadow-md card-hover transition duration-300">
+                    <div class="flex items-center mb-4">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i data-feather="file-text" class="text-blue-600"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold text-white">Traffic Flow Monitor</h3>
+                    </div>
+                    <p class="text-gray-300 mb-4">Traffic flow Monitor</p>
+                    <a href="https://traffic-flow-monitor--jamesnderitu947.replit.app/" class="text-blue-500 hover:text-blue-700 flex items-center">
+                        <i data-feather="github" class="mr-2"></i> View Project
+                    </a>
+                </div>
+                <!-- Project 3 -->
                 <div class="bg-gray-900 rounded-xl p-6 shadow-md card-hover transition duration-300">
                     <div class="flex items-center mb-4">
                         <div class="bg-purple-100 p-3 rounded-full mr-4">
