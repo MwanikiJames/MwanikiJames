@@ -170,7 +170,7 @@
                         <h3 class="text-xl font-semibold text-white">Traffic Flow Monitor</h3>
                     </div>
                     <p class="text-gray-300 mb-4">Traffic flow Monitor</p>
-                    <a href="https://mwanikijames.github.io/traffic-flow-monitor/" class="text-blue-500 hover:text-blue-700 flex items-center">
+                    <a href="https://mwanikijames.github.io/TRAFFIC-MONITOR/" class="text-blue-500 hover:text-blue-700 flex items-center">
                         <i data-feather="github" class="mr-2"></i> View Project
                     </a>
                 </div>
